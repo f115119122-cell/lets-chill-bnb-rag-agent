@@ -1,0 +1,94 @@
+# Let's Chill B&B (浪我們放空民宿) - House Rules and Policies 住宿規章
+# Made-up data for a class project. This B&B and its rules are not real.
+# Each "## " heading is one chunk for the RAG search. Room prices and add-ons are in rooms_services.csv;
+# short facts (check-in time, parking, Wi-Fi) are in bnb_info.csv.
+
+## Booking deposit and normal cancellation 訂金與一般取消
+A booking is confirmed only after the guest pays a 30% booking deposit by bank transfer within 3 days.
+The rest is paid at check-in by cash, credit card or LINE Pay.
+Cancelling 14 or more days before check-in: the deposit is refunded in full.
+Cancelling 7 to 13 days before check-in: 50% of the deposit is refunded.
+Cancelling 6 days or less before check-in, or not arriving: the deposit is not refunded.
+One date change is free if it is made 14 or more days before check-in; the new date must be within 90 days.
+Refunds are sent by bank transfer within 7 working days.
+訂房須於 3 天內匯款 30% 訂金才算完成，尾款於入住時付清（現金、信用卡、LINE Pay）。
+入住日前 14 天以上取消：訂金全額退還；前 7～13 天：退 50%；前 6 天內取消或未到：不退。
+入住日前 14 天以上可免費改期一次，新日期須在 90 天內。退款於 7 個工作天內匯回。
+
+## Typhoon before arrival: changing or cancelling 颱風：入住前改期或取消
+Common questions: A typhoon is coming before my trip or on my check-in day. Can I get my booking deposit back, or move my stay?
+常見問法：颱風要來了／入住當天有颱風，訂金可以退嗎？可以改期嗎？
+Typhoon rules follow the official warnings of the Central Weather Administration (CWA, 中央氣象署), not forecasts or news.
+If the CWA issues a land typhoon warning (陸上颱風警報) that covers Pingtung County on the check-in day or the day before,
+the guest may change the date for free (within 90 days) or cancel and get the full deposit back.
+If the government closes the road to Kenting (Provincial Highway 26) on the check-in day, the same rule applies.
+A sea typhoon warning only (海上颱風警報), rain, or a forecast is not enough: the normal cancellation rules apply,
+but the guest may change the date once for free.
+The guest must tell the host on LINE before 12:00 on the check-in day.
+以中央氣象署正式發布的警報為準，不以預報或新聞為準。
+入住當天或前一天，氣象署對屏東縣發布陸上颱風警報（或政府封閉台 26 線往墾丁的道路）：可免費改期（90 天內）或全額退還訂金。
+只有海上颱風警報、下雨或預報：依一般取消規定，但可免費改期一次。須在入住當天 12:00 前以 LINE 告知房東。
+
+## Typhoon during your stay 颱風：住宿期間
+If a land typhoon warning for Pingtung County is issued while you are staying with us:
+If you leave early because of the warning, the nights you do not use are refunded in full.
+If you cannot leave safely and need to stay longer, each extra night costs 50% of the normal room price.
+Outdoor add-ons (snorkeling, stand-up paddle boarding, night tour, beach BBQ) are cancelled and refunded in full.
+During a typhoon, please stay inside, close the balcony doors, and do not go to the beach.
+If the power goes out, the lobby has emergency lights and drinking water. Power cuts caused by a typhoon are not compensated.
+住宿期間屏東縣發布陸上颱風警報：因警報提前退房，未住的夜數全額退費；無法安全離開而續住，每晚以原房價 50% 計算。
+戶外加購行程（浮潛、SUP、夜間導覽、海灘烤肉）取消並全額退費。颱風期間請待在室內、關好陽台門、不要去海邊。
+停電時大廳有緊急照明與飲用水；颱風造成的停電不另外補償。
+
+## Security deposit at check-in 入住押金
+At check-in, each room pays a refundable security deposit (押金) of NT$1,000, in cash or as a credit card hold.
+This is not the same as the booking deposit (訂金), which is part of the room price.
+At check-out, the staff check the room within 30 minutes. If nothing is damaged or missing, cash is returned at once,
+and a credit card hold is released within 7 working days.
+Money is taken from the security deposit only for the items in the damage price list, the cleaning fees, or a lost key card.
+If the cost is more than NT$1,000, the guest pays the difference at check-out.
+入住時每間房收取可退還的押金 NT$1,000（現金或信用卡預授權），與訂房的訂金不同（訂金是房價的一部分）。
+退房時工作人員於 30 分鐘內檢查房間，無損壞或遺失即退還現金；信用卡預授權於 7 個工作天內取消。
+押金只會扣除賠償價目表、清潔費或遺失房卡的費用；超過 NT$1,000 時，於退房時補差額。
+
+## Damage and compensation price list 損壞賠償價目表
+Normal wear is never charged. Accidental and deliberate damage are charged by this list:
+Lost room key card: NT$200. Broken glass or mug: NT$150. Lost or broken TV or air conditioner remote: NT$500.
+Towel with a stain that cannot be washed out: NT$300. Bed sheet or duvet cover with such a stain: NT$800.
+Broken furniture, lamps, appliances, windows or doors: the real repair or replacement cost, with the receipt shown to the guest.
+The host sends photos of any damage to the guest within 24 hours. A guest who disagrees can reply on LINE,
+and the host Amy decides the final amount.
+正常使用的耗損不收費。意外或故意損壞依下列價目賠償：
+遺失房卡 NT$200；打破玻璃杯或馬克杯 NT$150；遺失或損壞電視、冷氣遙控器 NT$500；
+毛巾有洗不掉的污漬 NT$300；床單或被套有洗不掉的污漬 NT$800；
+家具、燈具、電器、門窗損壞：依實際維修或更換費用，並出示收據。
+房東會在 24 小時內傳損壞照片給房客；有異議可在 LINE 回覆，最終金額由房東 Amy 決定。
+
+## Smoking and special cleaning fees 違規吸菸與特殊清潔費
+Smoking (including e-cigarettes) inside the building: NT$3,000 deep cleaning fee.
+A pet (other than a guide dog) found in the room: NT$2,000 cleaning fee.
+Large amounts of sand left in the room or the bathtub after the beach: NT$500 cleaning fee.
+Fireworks are not allowed anywhere on the property.
+These fees are taken from the security deposit.
+室內吸菸（含電子菸）：深度清潔費 NT$3,000。房內發現寵物（導盲犬除外）：清潔費 NT$2,000。
+從海邊回來在房間或浴缸留下大量沙子：清潔費 NT$500。民宿範圍內禁止燃放煙火。以上費用從押金扣除。
+
+## Overbooking or a room problem: same or better room 超額預訂或房況問題：同級或升等
+Sometimes we cannot give the booked room, because of a booking system error, a double booking,
+or a problem in the room (for example a broken air conditioner or a water leak).
+First, the host offers a room of a higher type at no extra cost (a free upgrade), if one is free.
+If only a lower room type is free, the guest may take it and the price difference is refunded,
+and breakfast for everyone in the room is free for those nights. The guest may also choose the other-hotel option below.
+因訂房系統錯誤、重複訂房或房況問題（例如冷氣故障、漏水）無法提供原訂房型時：
+房東先安排更高等級的房型，不加價（免費升等）。
+若只剩較低等級房型，房客可選擇入住並退還房價差額，該房所有人當晚早餐免費；房客也可選擇下方的他館安排。
+
+## Overbooking: moving to another hotel 超額預訂：安排至其他旅館
+If no room of the same or a higher type is free, the host books a room of the same or a higher level
+at a partner hotel within 5 km, and the B&B pays that room in full for the affected nights.
+The B&B also pays the taxi to the other hotel and back.
+The guest's payment for those nights is refunded in full, and the guest gets a NT$1,000 voucher for a future stay.
+Instead, the guest may cancel the whole booking and get every payment back in full.
+Only the host can make these arrangements. The online agent cannot book another hotel or give a voucher.
+沒有同級以上空房時：房東安排 5 公里內合作旅館的同級以上房間，房費與往返計程車費由民宿支付，
+房客這幾晚已付的錢全額退還，另送 NT$1,000 住宿抵用券；或可取消整筆訂單全額退費。只有房東能安排，線上客服不能代訂旅館。

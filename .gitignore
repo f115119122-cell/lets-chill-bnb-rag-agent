@@ -1,0 +1,11 @@
+.env
+*.db
+__pycache__/
+venv/
+.venv/
+node_modules/
+build/
+dist/
+report/
+test_result.txt
+test_rag_result.txt
